@@ -1,2 +1,2 @@
 # Airbnb: Predicting Price
-Read the following file for detals Scripts/Airbnb_README.ipynb
+Read the following file for details Scripts/Airbnb_README.ipynb
